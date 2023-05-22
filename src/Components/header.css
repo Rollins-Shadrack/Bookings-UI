@@ -1,0 +1,50 @@
+.searchContainer{
+    display: flex;
+    border: 1px solid #293855;
+    border-radius: 15px;
+    width: fit-content;
+    box-shadow: 0px 0px  3px 0px #293855;
+}
+.searchContainer button{
+    border: none;
+    padding: 6px 15px;
+    border-radius: 15px;
+    background: #293855;
+    color: #c2e7c9;
+}
+.accountNavLink1{
+    text-decoration: none;
+    width: fit-content;
+    background: #293855;
+    color: #c2e7c9;
+    border-radius: 30px;
+}
+.photobutton{
+    border: 1px solid #f2ac20;
+    background: transparent;
+    border-radius: 5px;
+    color: #293855;
+}
+.photobutton1{
+    border: 1px solid #f2ac20;
+    background:#f2ac20;
+    border-radius: 15px;
+    color: #293855;
+}
+
+.imageInList{
+    width: calc(230px);
+    height: calc(150px);
+    border-radius: 10px;
+}
+.hotelLinks{
+    background: #293855;
+    color: #c2e7c9;
+    text-decoration: none;
+}
+.IconBadge{
+    width: 50px;
+    color: #c2e7c9;
+    border-radius: 50px;
+    background-color: rgba(0, 0, 0, 0.5);
+}

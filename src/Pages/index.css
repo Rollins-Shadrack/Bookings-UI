@@ -1,0 +1,10 @@
+.accountNavLink{
+    text-decoration: none;
+    color:#293855 ;
+}
+.active{
+    width: fit-content;
+    background: #293855;
+    color: #c2e7c9;
+    border-radius: 30px;
+}
